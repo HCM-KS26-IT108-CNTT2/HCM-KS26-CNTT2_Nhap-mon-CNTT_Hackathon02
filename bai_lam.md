@@ -170,16 +170,15 @@ Property :
 
 ### Báo cáo lỗi gửi trưởng nhóm
 
-- **Context:** 
-- **Expected:** 
-- **Actual:** 
-- **Log:** 
+- **Context: Dạ em chào anh, em đang dùng windows 11 và em đang gặp vấn đề trong việc sửa lỗi web ạ** 
+- **Expected: Em muốn trang web có thể hiển thị được bảng giá gói dịch vụ của spa** 
+- **Actual: Khi em vào trang web thì bảng giá của spa không hiện và in ra dòng lỗi màu đỏ ở tab console ạ** 
+- **Log: dạ dòng lỗi này ạ: Uncaught ReferenceError: hienThiGoiDichVu is not defined app.js:18** 
 
 ### Câu tìm kiếm Google
 
 ```text
-(Ghi câu tìm kiếm vào đây – xoá dòng này)
-
+site:stackoverflow.com "Uncaught ReferenceError"
 ```
 
 ## 4.7. Excel
